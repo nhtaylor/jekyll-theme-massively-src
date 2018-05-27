@@ -35,10 +35,8 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             http://github.com/nhtaylor
+github:             nhtaylor
+linkedin:           nhtaylr
 
 # personal
 location:           New York, NY
