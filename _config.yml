@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           New York, NY
+phone:              (419) 605 - 8468
+email:              nathan.h.taylor@gmail.com
 
 # Gems
 gems:
@@ -57,7 +57,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/nhtaylor
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
