@@ -38,12 +38,12 @@ analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             http://github.com/nhtaylor
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           New York, NY
+phone:              (419) 605 - 8468
+email:              nathan.h.taylor@gmail.com
 
 # Gems
 gems:
